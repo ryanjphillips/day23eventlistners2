@@ -1,0 +1,35 @@
+div.main-div{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 500px;
+    height: 100px;
+    border: lightgray solid;
+    text-align: center;
+    border-radius: 15px;
+}
+
+div.second-div{
+    position: absolute;
+    top: 60%;
+    left: 48%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 200px;
+    height: 150px;
+    border: lightgray solid;
+    border-radius: 15px;
+}
+
+h1{
+    width: 500px;
+}
+
+h1.second-head{
+    width: 200px;
+    height: 150px;
+    text-align: center;
+
+}
